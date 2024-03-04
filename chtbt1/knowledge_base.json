@@ -1,0 +1,62 @@
+{
+  "questions": [
+    {
+      "question": "what is capital of France?",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correctAnswer": 0
+    },
+    {
+      "question": "what is capital of Geramny?",
+      "answers": [
+        "Paris",
+        "London",
+        "Berlin",
+        "Rome"
+      ],
+      "correctAnswer": 2
+    },
+    {
+      "question": "hello",
+      "answer": "hey there"
+    },
+    {
+      "question": "how are you?",
+      "answer": "good! thanks for asking!"
+    },
+    {
+      "question": ".....",
+      "answer": "Elipses"
+    },
+    
+    
+    {
+      "question": "what is your name?",
+      "answer": "I'm a chatbot to assist you , you can call me chatbot."
+    },
+    {
+      "question": "hello, what can you do?",
+      "answer": "Hi there! I'm here to assist you "
+    },
+    {
+      "question": "Tell me a joke",
+      "answer": "Sure! Why don't scientists trust atoms? Because they make up everything!"
+    },
+    {
+      "question": "What are the top attractions in Paris?",
+      "answer": "Some of the top attractions in Paris include the Eiffel Tower, Louvre Museum, and Notre-Dame Cathedral."
+    },
+    {
+      "question": "My internet connection is slow. What can I do?",
+      "answer": "Slow internet can be caused by various factors. Have you tried restarting your router? You can also check for any network congestion or contact your internet service provider for assistance."
+    },
+    {
+      "question": "How do you say 'hello' in Spanish?",
+      "answer": "The word for 'hello' in Spanish is 'hola'"
+    }
+  ]
+}
